@@ -49,6 +49,10 @@ Layer	Tech Used
 - Image Loading:	Coil
 - State Management: MutableStateFlow + Compose States
 
+📸 Demo Video
+
+https://drive.google.com/file/d/1IgSE80USUdHvvQDf9qVMfU_IjLfp6S3X/view?usp=drive_link
+    
 📸 Screenshots
 
 Below are some screenshots from the SasCom application:
